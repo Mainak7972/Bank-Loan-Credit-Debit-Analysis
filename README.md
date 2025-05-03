@@ -62,7 +62,9 @@ Formula: Sum of the Amount column grouped by Branch.
 Insight: Measures the total transaction volume per branch, helping to compare branch performance.
 Transaction Volume by Bank:
 
-#Excel Loan Analysis Dashboard 
+## Excel Loan Analysis Dashboard 
+![Credit   Debit Dashboard Excel](https://github.com/user-attachments/assets/85ff1545-87d6-4341-adcf-74b78c98cd35)
+
 
 
 
