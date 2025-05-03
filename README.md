@@ -3,7 +3,7 @@
 Utilized SQL, Excel, Power BI, and Tableau for ETL and analysis of loan data. Explored loan amounts, interest rates, customer demographics, and repayment behavior. Segmented customers for targeted strategies and identified trends in loan performance. Maintained interactive dashboards for insights and updates.
 
 ## Questions (KPIs)
-##Loan Dashboard KPI Description 
+## Loan Dashboard KPI Description 
 
 1. Total Loan Amount Funded: Measures the total value of loans disbursed.
 2. Total Loans: Tracks the number of loans issued.
@@ -24,7 +24,7 @@ Utilized SQL, Excel, Power BI, and Tableau for ETL and analysis of loan data. Ex
 17. Loan Maturity: Tracks the timeline until full repayment 
 18. No Verified Loans: Identifies loans without proper verification.
 
-##Bank Debit and Credit Dashboard KPI Description 
+## Bank Debit and Credit Dashboard KPI Description 
 
 1-Total Credit Amount:
 
